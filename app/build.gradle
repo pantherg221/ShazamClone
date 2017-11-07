@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.jgoodwin.shazamclonecpy"
+        applicationId "com.jgoodwin.shazamclone"
         minSdkVersion 14
         targetSdkVersion 26
         versionCode 1
